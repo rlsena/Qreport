@@ -1,0 +1,15 @@
+# Ambiente
+.env
+venv/
+
+# Logs
+log.txt
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
